@@ -58,7 +58,8 @@ This project analyzes Superstore sales data using Excel, SQL, and Power BI to id
 - dashboard_screenshot.png
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
+<img width="1457" height="995" alt="Screenshot 2026-05-25 155744" src="https://github.com/user-attachments/assets/3f52973d-3229-4341-8a72-8b24a17d0a99" />
+
 
 ## Author
-Shikher Awasthi
+Shashank Awasthi
